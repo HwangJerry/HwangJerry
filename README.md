@@ -8,7 +8,7 @@
 - "멋쟁이사자처럼대학 항공대"의 대표를 맡으며, 멤버들의 성장을 위해 정기 세미나를 통한 백엔드 지식 공유와 함께 하는 성장 문화를 구축하였습니다.
 
 
-<h2>🐣 Development Skills</h2>
+<h2>Development Skills 🐣</h2>
 <dl>
   <dt>Language & Frameworks</dt>
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/>
