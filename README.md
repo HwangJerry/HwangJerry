@@ -18,7 +18,7 @@
   <dt>Database</dt>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 
-  <dt>DevOps</dt>
+  <dt>Infrastructure</dt>
   <img src="https://img.shields.io/badge/AWS-232F32?style=flat&logo=Amazon-AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/NginX-009639?style=flat&logo=NGINX&logoColor=white"/>
