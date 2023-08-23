@@ -7,6 +7,8 @@
 
 - "멋쟁이사자처럼대학 항공대"의 대표를 맡으며, 멤버들의 성장을 위해 정기 세미나를 통한 백엔드 지식 공유와 함께 하는 성장 문화를 구축하였습니다.
 
+  ![HwangBaco's github stats](https://github-readme-stats.vercel.app/api?username=HwangBaco&show_icons=true&theme=merko)
+
 
 <h2>Development Skills 🐣</h2>
 <dl>
@@ -28,7 +30,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
 </dl>
 
-![HwangBaco's github stats](https://github-readme-stats.vercel.app/api?username=HwangBaco&show_icons=true&theme=merko)
 <!--
 **HwangBaco/HwangBaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
