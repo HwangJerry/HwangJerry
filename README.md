@@ -24,8 +24,6 @@
   <img src="https://img.shields.io/badge/NginX-009639?style=flat&logo=NGINX&logoColor=white"/>
 
   <dt>I'm currently learning</dt>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=ts-node&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
 </dl>
