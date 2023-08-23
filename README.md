@@ -1,5 +1,4 @@
 ## Hi, I'm Baco 🦭
-![HwangBaco's github stats](https://github-readme-stats.vercel.app/api?username=HwangBaco&show_icons=true&theme=merko)
 
 - Java & Spring, AWS 기반의 서버 백엔드 개발자로 '유저 규모 약 1500명의 커뮤니티'와 '항공대 청원서비스' 개발 프로젝트에 참여하여 백엔드 및 AWS 인프라 구축 등을 해왔습니다.
  
@@ -9,7 +8,7 @@
 
 - "멋쟁이사자처럼대학 항공대"의 대표를 맡으며, 멤버들의 성장을 위해 정기 세미나를 통한 백엔드 지식 공유와 함께 하는 성장 문화를 구축하였습니다.
 
-
+![HwangBaco's github stats](https://github-readme-stats.vercel.app/api?username=HwangBaco&show_icons=true&theme=merko)
 
 
 <h2>Development Skills 🐣</h2>
