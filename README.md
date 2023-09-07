@@ -8,8 +8,6 @@
 
 - "멋쟁이사자처럼대학 항공대"의 대표를 맡으며, 멤버들의 성장을 위한 정기 세미나를 구성하여 백엔드 지식 공유와 함께 하는 성장 문화를 구축하였습니다.
 
-[![](https://banner.codetree.ai/v1/banner/ghkdwp018)](https://www.codetree.ai/profiles/ghkdwp018)
-
 <h2>Development Skills 🐣</h2>
 <dl>
   <dt>Language & Frameworks</dt>
@@ -31,5 +29,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
 </dl>
 
-![HwangBaco's github stats](https://github-readme-stats.vercel.app/api?username=HwangBaco&show_icons=true&theme=merko)
+[![](https://banner.codetree.ai/v1/banner/ghkdwp018)](https://www.codetree.ai/profiles/ghkdwp018)
+<!--![HwangBaco's github stats](https://github-readme-stats.vercel.app/api?username=HwangBaco&show_icons=true&theme=merko)-->
 
