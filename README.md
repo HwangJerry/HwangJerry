@@ -7,7 +7,7 @@
 - 모든 개발은 협업을 기본으로 함을 이해하여, 원활한 협업 개발을 위하여 Jira 도입 및 PR을 통한 코드리뷰 문화 구축, 그리고 슬랙을 통한 데일리 스크럼 패턴을 적극적으로 활용해 왔습니다.
 
 - "멋쟁이사자처럼대학 항공대"의 대표를 맡으며, 멤버들의 성장을 위한 정기 세미나를 구성하여 백엔드 지식 공유와 함께 하는 성장 문화를 구축하였습니다.
-
+[![](https://banner.codetree.ai/v1/banner/ghkdwp018)](https://www.codetree.ai/profiles/ghkdwp018)
 <h2>Development Skills 🐣</h2>
 <dl>
   <dt>Language & Frameworks</dt>
@@ -30,4 +30,4 @@
 </dl>
 
 ![HwangBaco's github stats](https://github-readme-stats.vercel.app/api?username=HwangBaco&show_icons=true&theme=merko)
-[![](https://banner.codetree.ai/v1/banner/ghkdwp018)](https://www.codetree.ai/profiles/ghkdwp018)
+
