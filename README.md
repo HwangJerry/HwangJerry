@@ -7,7 +7,7 @@
 
 - 항공대 학생청원게시판 '송곳매' 개발 프로젝트 테크 리드
 
-### FOCUS ON
+### FOCUS ON 
 
 - 모든 개발은 협업을 기본으로 함을 이해하여, 원활한 협업 개발을 위하여 Jira 도입 및 PR을 통한 코드리뷰 문화 구축, 그리고 슬랙을 통한 데일리 스크럼 패턴을 적극적으로 활용해 왔습니다.
 
@@ -15,7 +15,7 @@
 
 <!--[![](https://banner.codetree.ai/v1/banner/ghkdwp018)](https://www.codetree.ai/profiles/ghkdwp018)-->
 
-<h2>Development Skills 🐣</h2>
+<h2>Development Skills</h2>
 <dl>
   <dt>Language & Frameworks</dt>
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/>
