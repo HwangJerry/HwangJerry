@@ -1,19 +1,18 @@
 ## Hi, I'm Baco 🦭
 
-### I WAS
+### 저는 ... 입니다.
 - 멋쟁이사자처럼대학 항공대 11기 대표
 
 - 멋쟁이사자처럼대학 공식 커뮤니티 개발 TF팀 BE 리드
 
 - 항공대 학생청원게시판 '송곳매' 개발 프로젝트 테크 리드
 
-### I DID
-
+### 저는 이렇게 협업합니다.
 - 원활한 협업을 위해 (1) PR을 통한 코드리뷰 도입 (2) Jira를 활용한 태스크 관리 (3) 노션을 활용한 문서화 아카이빙 을 진행했습니다.
 
-- 성장 주도 학습 문화를 조성하고자 멋쟁이사자처럼 항공대 11기 대표를 맡으며 기술 세미나를 주도하여 운영했습니다.
+- 지식공유 주도 성장을 지향하여, 멋쟁이사자처럼 항공대 11기 대표를 맡으며 기술 세미나를 주도하여 운영했습니다.
 
-### I'm FROM
+### 저는 여기서 배웠습니다.
 - 대일외국어고등학교 독일어과 29기
 
 - 한국항공대학교 항공운항학과 63기
@@ -24,7 +23,7 @@
 
 <!--[![](https://banner.codetree.ai/v1/banner/ghkdwp018)](https://www.codetree.ai/profiles/ghkdwp018)-->
 
-<h2>Development Skills</h2>
+<h2>Hard Skills</h2>
 <dl>
   <dt>Language & Frameworks</dt>
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/>
