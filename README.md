@@ -20,7 +20,7 @@
 
 - 한국항공대학교 소프트웨어학과 Double Major
 
-- 삼성 청년 SW 아카데미 코딩트랙 11기
+- 삼성 청년 SW 아카데미 11기
 
 <!--[![](https://banner.codetree.ai/v1/banner/ghkdwp018)](https://www.codetree.ai/profiles/ghkdwp018)-->
 
