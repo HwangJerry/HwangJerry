@@ -23,7 +23,7 @@
 
 <!--[![](https://banner.codetree.ai/v1/banner/ghkdwp018)](https://www.codetree.ai/profiles/ghkdwp018)-->
 
-<h2>Development Skills</h2>
+<h2>Hard Skills</h2>
 <dl>
   <dt>Language & Frameworks</dt>
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/>
