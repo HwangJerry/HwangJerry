@@ -29,12 +29,15 @@
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white"> 
   
   <dt>Database</dt>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
 
   <dt>Infrastructure</dt>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"> 
   <img src="https://img.shields.io/badge/AWS-232F32?style=flat&logo=Amazon-AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/NginX-009639?style=flat&logo=NGINX&logoColor=white"/>
@@ -43,8 +46,6 @@
   <img src="https://img.shields.io/badge/Apache%20Kafka-222222?style=flat&logo=Apache%20Kafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
 </dl>
-
-
 
 <!--![HwangBaco's github stats](https://github-readme-stats.vercel.app/api?username=HwangBaco&show_icons=true&theme=merko)-->
 
