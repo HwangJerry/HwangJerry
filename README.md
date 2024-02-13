@@ -1,5 +1,4 @@
 ## Hi, I'm Baco 🦭
-![HwangBaco's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBaco&theme=dark&show_icons=true)
 
 ### 저는 ...로서 개발했습니다.
 - 멋쟁이사자처럼대학 공식 커뮤니티 개발 TF팀 BE 리드
