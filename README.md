@@ -26,7 +26,7 @@
   <dt>Language & Frameworks</dt>
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>-->
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white"> 
   
   <dt>Database</dt>
@@ -40,9 +40,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/NginX-009639?style=flat&logo=NGINX&logoColor=white"/>
 
-  <dt>I'm currently learning</dt>
+  <!--<dt>I'm currently learning</dt>
   <img src="https://img.shields.io/badge/Apache%20Kafka-222222?style=flat&logo=Apache%20Kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>-->
 </dl>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkdwp018)](https://solved.ac/ghkdwp018/)
