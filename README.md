@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
 
   <dt>Infrastructure</dt>
-  <img src="https://img.shields.io/badge/-Linux-grey?style-flat&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"> 
   <img src="https://img.shields.io/badge/AWS-232F32?style=flat&logo=Amazon-AWS&logoColor=white"/>
