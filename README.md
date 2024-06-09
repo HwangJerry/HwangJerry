@@ -22,6 +22,13 @@
 <!--[![](https://banner.codetree.ai/v1/banner/ghkdwp018)](https://www.codetree.ai/profiles/ghkdwp018)-->
 
 <!--<h2>Hard Skills</h2>-->
+
+    _  _____ ____  ____ ___  _
+   / |/  __//  __\/  __\\  \//
+   | ||  \  |  \/||  \/| \  / 
+/\_| ||  /_ |    /|    / / /  
+\____/\____\\_/\_\\_/\_\/_/   
+                            
 <dl>
   <dt>Language & Frameworks</dt>
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/>
