@@ -11,8 +11,12 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat&logo=Apache Airflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/Deep Learning-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
 </dl>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkdwp018)](https://solved.ac/ghkdwp018/)
+
 
 <!--
 <dl>
@@ -38,7 +42,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
 </dl>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkdwp018)](https://solved.ac/ghkdwp018/)
 
 [HwangBaco's github stats](https://github-readme-stats.vercel.app/api?username=HwangBaco&show_icons=true&theme=merko)
 
