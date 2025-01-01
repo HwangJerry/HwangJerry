@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat&logo=Apache Airflow&logoColor=white"/>
 </dl>
 <dl>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Deep Learning-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CentOS-262577?style=flat&logo=CentOS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
 </dl>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkdwp018)](https://solved.ac/ghkdwp018/)
