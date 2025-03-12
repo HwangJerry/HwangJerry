@@ -11,9 +11,6 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat&logo=Apache Airflow&logoColor=white"/>
-</dl>
-<dl>
-    <img src="https://img.shields.io/badge/CentOS-262577?style=flat&logo=CentOS&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
 </dl>
 
